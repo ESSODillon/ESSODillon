@@ -36,7 +36,7 @@ I'm a Full Stack Web Developer with a double major in Media Arts and Science & I
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![PHP](https://img.shields.io/badge/-PHP-blueviolet?style=flat-square&logo=PHP)
 
-### Libraries & Framework :
+### Libraries & Frameworks :
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-DF3541?style=flat-square&logo=angular)
