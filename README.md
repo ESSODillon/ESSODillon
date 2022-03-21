@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Dillon! Welcome to my Github! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I'm a Full Stack Web Developer with a double major in Media Arts and Science & Informatics from [Indiana University Purdue University Indianapolis](https://www.iupui.edu/). I am always open to collaborating on projects and innovative/cool ideas. Find out more about me & feel free to connect with me here:
+I'm a Full Stack Web Developer with a double major in [Media Arts and Science & Informatics](https://soic.iupui.edu/degrees/undergraduate/full-stack-developer/) from [Indiana University Purdue University Indianapolis](https://www.iupui.edu/). I am always open to collaborating on projects and innovative/cool ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-dillonpolley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dillon-polley-a9586418b/)](https://www.linkedin.com/in/dillon-polley-a9586418b/)
 [![Instagram Badge](https://img.shields.io/badge/-therealdillonpolley-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/therealdillonpolley/)](https://www.instagram.com/therealdillonpolley/)
