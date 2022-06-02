@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, I'm Dillon! Welcome to my Github! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi, I'm Dillon! Welcome to my Github! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
 
 I'm a Full Stack Web Developer with a double major in [Media Arts and Science & Informatics](https://soic.iupui.edu/degrees/undergraduate/full-stack-developer/) from [Indiana University Purdue University Indianapolis](https://www.iupui.edu/). I am always open to collaborating on projects and innovative/cool ideas. Find out more about me & feel free to connect with me here:
 
