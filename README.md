@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Dillon! Welcome to my Github! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
 
-I'm currently a Solutions Developer at IMI, where I primarily work with React JS. 
+I'm currently a Solutions Developer at IMI (Irving Materials, Inc.) where I build cool applications, primarily in React JS.
+
+<img src="https://www.irvmat.com/hr-application/images/logo.jpg" width="123px" height="60px">
 
 I'm also an alumni at [Indiana University Purdue University Indianapolis](https://www.iupui.edu/). Where I completed a double major in [Media Arts and Science & Informatics](https://soic.iupui.edu/degrees/undergraduate/full-stack-developer/). I am always open to collaborating on projects and innovative/cool ideas. Find out more about me & feel free to connect with me here:
 
