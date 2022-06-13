@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Dillon! Welcome to my Github! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
 
-I'm currently a Solutions Developer at IMI (Irving Materials, Inc.) where I build cool applications, primarily in React JS.
+I'm currently a [Solutions Developer at IMI](https://www.irvmat.com/) (Irving Materials, Inc.) where I build cool applications, primarily in React JS.
 
 <img src="https://www.irvmat.com/hr-application/images/logo.jpg" width="123px" height="60px">
 
