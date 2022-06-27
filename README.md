@@ -25,8 +25,6 @@ I'm also an alumni at [Indiana University Purdue University Indianapolis](https:
 [![Instagram Badge](https://img.shields.io/badge/-therealdillonpolley-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/therealdillonpolley/)](https://www.instagram.com/therealdillonpolley/)
 [![Gmail Badge](https://img.shields.io/badge/-dillonpolley@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dillonpolley@gmail.com)](mailto:dillonpolley@gmail.com)
 
-![Dillon's github activity graph](https://activity-graph.herokuapp.com/graph?username=ESSODillon&theme=xcode)
-
 
 ## ⚡ Technologies
 
@@ -57,9 +55,5 @@ I'm also an alumni at [Indiana University Purdue University Indianapolis](https:
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 
 ## 📈 Stats
-<p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ESSODillon&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ESSODillon&theme=tokyonight" />
-</p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ESSODillon&show_icons=true&theme=tokyonight" />
 
