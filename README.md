@@ -54,6 +54,7 @@ I'm also an alumni at [Indiana University Purdue University Indianapolis](https:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 
+<!--
 ## 📈 Stats
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ESSODillon&show_icons=true&theme=tokyonight" />
-
+-->
