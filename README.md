@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 I'm currently a Solutions Developer at IMI (Irving Materials, Inc.) where I build cool applications, primarily in React JS.
 
-<img src="https://www.irvmat.com/hr-application/images/logo.jpg" width="123px" height="60px">
-
 I'm also an alumni at [Indiana University Purdue University Indianapolis](https://www.iupui.edu/). Where I completed a double major in [Media Arts and Science & Informatics](https://soic.iupui.edu/degrees/undergraduate/full-stack-developer/). I am always open to collaborating on projects and innovative/cool ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-dillonpolley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dillon-polley-a9586418b/)](https://www.linkedin.com/in/dillon-polley-a9586418b/)
