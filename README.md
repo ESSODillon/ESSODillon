@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Dillon! Welcome to my Github! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
 
-I'm currently open to work and exploring opportunities!
+I'm currently a Solutions Developer at TriLeaf corporation.
 
 I'm also an alumni at [Indiana University Purdue University Indianapolis](https://www.iupui.edu/). Where I completed a double major in [Media Arts and Science & Informatics](https://soic.iupui.edu/degrees/undergraduate/full-stack-developer/). I am always open to collaborating on projects and innovative/cool ideas. Find out more about me & feel free to connect with me here:
 
